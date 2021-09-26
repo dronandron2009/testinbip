@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="text_alertdialog_registration_number">Если вы не введете регистрационный номер ТС, то вы не сможете следить за штрафами, выписанными на автомобиль</string>
+    <string name="text_alertdialog_certificate_registration">Если вы не введете номер свидетельства ТС, то вы не сможете следить за штрафами, выписанными на автомобиль</string>
+    <string name="text_alertdialog_drivers_license">Если вы не введете номер водительского удостоверения, то вы не сможете следить за штрафами, выписанными на автомобиль</string>
+
+    <string name="pay_in_app">Оплачивайте штрафы\nсо скидкой 50%</string>
+    <string name="push_in_app">Получайте уведомления\nо новых штрафах</string>
+    <string name="check_in_app">Гарантия погашения\nквитанция как в банке</string>
+    <string name="gai_in_app">Соблюдайте правила\nдорожного движения</string>
+
+
+    <string name="save_main">Данные сохраненны</string>
+    <string name="alertdialog_input">Ввести номер</string>
+    <string name="alertdialog_skip">Пропустить</string>
+    <string name="next">Далее</string>
+    <string name="warning_incorrect_data_registration_number">Номерной знак введен некорректно</string>
+    <string name="warning_input_data_registration_number">Введите номерной знак</string>
+    <string name="warning_incorrect_data_certificate_number">Номер СТС введен некорректно</string>
+    <string name="warning_input_data_certificate_number">Введите номер СТС</string>
+    <string name="warning_incorrect_data_drivers_license">Номер В/У введен некорректно</string>
+    <string name="warning_input_data_drivers_license">Введите номер В/У</string>
+
+    <string name="registration_number_textview">Укажите регистрационный номер ТС</string>
+    <string name="registration_number_edittextd">А000АА 77</string>
+
+    <string name="certificate_number_textview">Введите номер свидетельства о регистрации и ТС</string>
+    <string name="certificate_number_edittextd">00 АА 000000</string>
+
+    <string name="drivers_license_textview">Введите номер водительского удостоверения</string>
+    <string name="drivers_license_edittextd">00 00 000000</string>
+
+    <string name="button_slide_show">УЗНАТЬ ШТРАФЫ</string>
+
+    <string name="tv_auto">Номер автомобиля</string>
+    <string name="et_auto">Введите номер автомобиля</string>
+    <string name="tv_sts">СТС</string>
+    <string name="et_sts">Введите номер стс</string>
+    <string name="tv_drivers_license">Водительское удостоверение</string>
+    <string name="et_drivers_license">Введите номер водительского удостоверения</string>
+    <string name="button_save">Сохранить</string>
+    <string name="tv_tech">Раздел в разработке</string>
+
+
+
+</resources>
